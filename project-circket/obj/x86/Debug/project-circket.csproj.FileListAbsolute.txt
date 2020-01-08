@@ -1,0 +1,5 @@
+C:\Users\Dell\Desktop\c#2010\project-circket\project-circket\bin\Debug\project-circket.exe
+C:\Users\Dell\Desktop\c#2010\project-circket\project-circket\bin\Debug\project-circket.pdb
+C:\Users\Dell\Desktop\c#2010\project-circket\project-circket\obj\x86\Debug\project-circket.exe
+C:\Users\Dell\Desktop\c#2010\project-circket\project-circket\obj\x86\Debug\project-circket.pdb
+C:\Users\Dell\Desktop\c#2010\project-circket\project-circket\obj\x86\Debug\project-circket.csprojResolveAssemblyReference.cache
